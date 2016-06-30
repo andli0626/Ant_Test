@@ -1,0 +1,19 @@
+/Users/lilin/git/Ant_Test2/Ant_Test/bin/Ant_Test.ap_ \
+ : /Users/lilin/git/Ant_Test2/Ant_Test/res/drawable-hdpi/ic_launcher.png \
+/Users/lilin/git/Ant_Test2/Ant_Test/res/drawable-mdpi/ic_launcher.png \
+/Users/lilin/git/Ant_Test2/Ant_Test/res/drawable-xhdpi/ic_launcher.png \
+/Users/lilin/git/Ant_Test2/Ant_Test/res/drawable-xxhdpi/ic_launcher.png \
+/Users/lilin/git/Ant_Test2/Ant_Test/res/layout/hello_world_layout.xml \
+/Users/lilin/git/Ant_Test2/Ant_Test/res/menu/hello_world.xml \
+/Users/lilin/git/Ant_Test2/Ant_Test/res/values/dimens.xml \
+/Users/lilin/git/Ant_Test2/Ant_Test/res/values/strings.xml \
+/Users/lilin/git/Ant_Test2/Ant_Test/res/values/styles.xml \
+/Users/lilin/git/Ant_Test2/Ant_Test/res/values-sw600dp/dimens.xml \
+/Users/lilin/git/Ant_Test2/Ant_Test/res/values-sw720dp-land/dimens.xml \
+/Users/lilin/git/Ant_Test2/Ant_Test/res/values-v11/styles.xml \
+/Users/lilin/git/Ant_Test2/Ant_Test/res/values-v14/styles.xml \
+/Users/lilin/git/Ant_Test2/Ant_Test/bin/res/drawable-hdpi/ic_launcher.png \
+/Users/lilin/git/Ant_Test2/Ant_Test/bin/res/drawable-mdpi/ic_launcher.png \
+/Users/lilin/git/Ant_Test2/Ant_Test/bin/res/drawable-xhdpi/ic_launcher.png \
+/Users/lilin/git/Ant_Test2/Ant_Test/bin/res/drawable-xxhdpi/ic_launcher.png \
+/Users/lilin/git/Ant_Test2/Ant_Test/bin/AndroidManifest.xml \
